@@ -1,0 +1,6 @@
+source;share/startbot/hook/pythonpath.ps1
+source;share/startbot/hook/pythonpath.dsv
+source;share/startbot/hook/pythonpath.sh
+source;share/startbot/hook/ament_prefix_path.ps1
+source;share/startbot/hook/ament_prefix_path.dsv
+source;share/startbot/hook/ament_prefix_path.sh

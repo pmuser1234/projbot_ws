@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/startbot/startbot.egg-info/PKG-INFO
+../../build/startbot/startbot.egg-info/SOURCES.txt
+../../build/startbot/startbot.egg-info/dependency_links.txt
+../../build/startbot/startbot.egg-info/entry_points.txt
+../../build/startbot/startbot.egg-info/requires.txt
+../../build/startbot/startbot.egg-info/top_level.txt
+../../build/startbot/startbot.egg-info/zip-safe
+resource/startbot
+startbot/__init__.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

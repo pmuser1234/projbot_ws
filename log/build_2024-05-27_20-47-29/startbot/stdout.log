@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/startbot/startbot.egg-info
+writing ../../build/startbot/startbot.egg-info/PKG-INFO
+writing dependency_links to ../../build/startbot/startbot.egg-info/dependency_links.txt
+writing entry points to ../../build/startbot/startbot.egg-info/entry_points.txt
+writing requirements to ../../build/startbot/startbot.egg-info/requires.txt
+writing top-level names to ../../build/startbot/startbot.egg-info/top_level.txt
+writing manifest file '../../build/startbot/startbot.egg-info/SOURCES.txt'
+reading manifest file '../../build/startbot/startbot.egg-info/SOURCES.txt'
+writing manifest file '../../build/startbot/startbot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/prabha/projbot_ws/build/startbot/build
+creating /home/prabha/projbot_ws/build/startbot/build/lib
+creating /home/prabha/projbot_ws/build/startbot/build/lib/startbot
+copying startbot/__init__.py -> /home/prabha/projbot_ws/build/startbot/build/lib/startbot
+running install
+running install_lib
+creating /home/prabha/projbot_ws/install/startbot/lib/python3.10/site-packages/startbot
+copying /home/prabha/projbot_ws/build/startbot/build/lib/startbot/__init__.py -> /home/prabha/projbot_ws/install/startbot/lib/python3.10/site-packages/startbot
+byte-compiling /home/prabha/projbot_ws/install/startbot/lib/python3.10/site-packages/startbot/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/prabha/projbot_ws/install/startbot/share/ament_index
+creating /home/prabha/projbot_ws/install/startbot/share/ament_index/resource_index
+creating /home/prabha/projbot_ws/install/startbot/share/ament_index/resource_index/packages
+copying resource/startbot -> /home/prabha/projbot_ws/install/startbot/share/ament_index/resource_index/packages
+copying package.xml -> /home/prabha/projbot_ws/install/startbot/share/startbot
+running install_egg_info
+Copying ../../build/startbot/startbot.egg-info to /home/prabha/projbot_ws/install/startbot/lib/python3.10/site-packages/startbot-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/prabha/projbot_ws/build/startbot/install.log'
